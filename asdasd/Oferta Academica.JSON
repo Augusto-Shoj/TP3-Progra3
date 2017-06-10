@@ -1,0 +1,24 @@
+{
+  "oferta": [
+    {
+      "nombreMateria": "Organizacion del Computador I",
+      "horaInicio": 11,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "Introduccion a la matematica",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "Programacion I",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "A que onda",
+      "horaInicio": 8,
+      "duracion": 12
+    }
+  ]
+}
