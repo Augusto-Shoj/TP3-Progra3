@@ -50,4 +50,14 @@ public class Aula {
 		return retorno;
 	}
 	
+	public int getNumero(){
+		return this.numero;
+	}
+	
+	public String getNombre(int i){
+		
+			return this.horarios.get(i);
+			}
+		
+	
 }

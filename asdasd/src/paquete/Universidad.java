@@ -49,7 +49,7 @@ public class Universidad{
 		agregarAula();
 		getUltimaAula().meterMateria(m);
 	}
-	
+
 	
 	public String verFacultad(){
 		String retorno="";
@@ -66,24 +66,51 @@ public class Universidad{
 			this.agregarMateria(materias.dame(i));
 		}
 	}
-	
+
+	public void vaciarAulas(){
+		this.cantAulas=0;
+		this.aulas= new ArrayList<Aula>();
+	}
 
 public static void main(String[] args){
 	
 	Universidad facu = new Universidad("UNGS");
 		
-	MateriasJSON oferta = new MateriasJSON();
+//	MateriasJSON oferta1 = new MateriasJSON();
+
+	MateriasJSON oferta2 = new MateriasJSON();
        
-    oferta = MateriasJSON.leerJSON("Oferta Academica.json");
+//    oferta1 = MateriasJSON.leerJSON("Oferta Academica.json");
+    oferta2 = MateriasJSON.leerJSON("Oferta-Academica.json");
 		
-    facu.organizar(oferta);;
+//    facu.organizar(oferta1);
+    
+    facu.organizar(oferta2);
 		
-    //Imprime materias del JSON
-    for (int x=0; x<oferta.tamaño(); x++){
-		System.out.println(oferta.dame(x).toString());}
+//    //Imprime materias del JSON
+//    for (int x=0; x<oferta1.tamaño(); x++){
+//		System.out.println(oferta1.dame(x).toString());}
+//	
+//	//Imprime aulas	
+//    System.out.println(facu.verFacultad());
+
+for (int x=0; x<oferta2.tamaño(); x++){
+	System.out.println(oferta2.dame(x).toString());}
+
+//Imprime aulas	
+System.out.println(facu.verFacultad());}
+
+public Aula getAula(Object selectedItem) {
+	// TODO Auto-generated method stub
 	
-	//Imprime aulas	
-    System.out.println(facu.verFacultad());}
+	String lala = selectedItem.toString();
+	
+	lala = lala.substring(5);
+	
+	int num = Integer.parseInt(lala);
+	return this.getAula(num-1);
+}
+
 
 
 }

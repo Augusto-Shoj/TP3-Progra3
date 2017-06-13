@@ -1,0 +1,1045 @@
+{
+  "oferta": [
+    {
+      "nombreMateria": "ADMINISTRACIÓN DE LA PRODUCCIÓN Y MANTENIMIENTO",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ADMINISTRACIÓN PÚBLICA PROVINCIAL Y LOCAL",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ADOLESCENCIA Y EDUCACIÓN SECUNDARIA",
+      "horaInicio": 13,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ALGEBRA I",
+      "horaInicio": 8,
+      "duracion": 12
+    },
+    {
+      "nombreMateria": "ALGEBRA II",
+      "horaInicio": 14,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ALGEBRA LINEAL",
+      "horaInicio": 11,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": " ANÁLISIS MATEMÁTICO",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ANÁLISIS NUMÉRICO",
+      "horaInicio": 17,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ANÁLISIS TERRITORIAL",
+      "horaInicio": 9,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "APRENDIZAJE ESCOLAR",
+      "horaInicio": 9,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "ARTES AUDIOVISUALES",
+      "horaInicio": 14,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ARTES ESCÉNICAS II",
+      "horaInicio": 11,
+      "duracion": 5
+    },
+    {
+      "nombreMateria": "AUTOMATIZACIÓN",
+      "horaInicio": 14,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "AUTOMATIZACIÓN INDUSTRIAL I",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "BASES DE DATOS I",
+      "horaInicio": 18,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "CÁLCULO EN VARIAS VARIABLES",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "CÁLCULO I",
+      "horaInicio": 18,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "CÁLCULO PARA COMPUTACIÓN",
+      "horaInicio": 15,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "CALIDAD DE PROCESOS",
+      "horaInicio": 16,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "CARTOGRAFÍA TEMÁTICA",
+      "horaInicio": 12,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "CARTOGRAFÍA, SENSORES REMOTOS Y SISTEMAS DE INFORMACIÓN GEOGRÁFICA",
+      "horaInicio": 15,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": " CIENCIA DE LOS MATERIALES",
+      "horaInicio": 8,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "CIRCUITOS ELÉCTRICOS",
+      "horaInicio": 14,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "CIUDAD Y AMBIENTE",
+      "horaInicio": 8,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "COMUNICACIÓN INSTITUCIONAL",
+      "horaInicio": 18,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "COMUNICACIÓN MEDIÁTICA",
+      "horaInicio": 11,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "COSTOS INDUSTRIALES",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "CONTROL DE MÁQUINAS ELÉCTRICAS",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "COSTOS INDUSTRIALES",
+      "horaInicio": 11,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " CREACIÓN Y DESARROLLO DE EMPRESAS",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": " DERECHO ADMINISTRATIVO",
+      "horaInicio": 16,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "DERECHO Y ECONOMÍA DE LOS MEDIOS",
+      "horaInicio": 19,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "DERECHOS ECONÓMICOS, SOCIALES, CULTURALES Y AMBIENTALES",
+      "horaInicio": 12,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "DESARROLLO AVANZADO DE MICROCONTROLADORES",
+      "horaInicio": 15,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "DESARROLLO DE PRODUCTO",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "DESARROLLO DE PROYECTOS",
+      "horaInicio": 11,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "DESARROLLO INMOBILIARIO",
+      "horaInicio": 9,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "DESARROLLO Y GESTIÓN DE PROYECTOS EMPRENDEDORES",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "DIDÁCTICA",
+      "horaInicio": 14,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "DIRECCIÓN ESTRATÉGICA",
+      "horaInicio": 10,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "DIRECCIÓN Y RELACIONES INDUSTRIALES",
+      "horaInicio": 17,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "DIRECCIÓN Y RELACIONES INDUSTRIALES",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ECOLOGÍA INDUSTRIAL",
+      "horaInicio": 13,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "ECOLOGÍA POLÍTICA",
+      "horaInicio": 8,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": " ECONOMÍA CLÁSICA",
+      "horaInicio": 14,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": " ECONOMÍA DE LA EDUCACIÓN",
+      "horaInicio": 12,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "ECONOMÍA ECOLÓGICA",
+      "horaInicio": 18,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " ECONOMÍA INTERNACIONAL",
+      "horaInicio": 17,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ECONOMÍA NEOCLÁSICA",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ECONOMÍA URBANA Y REGIONA",
+      "horaInicio": 16,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ECUACIONES DIFERENCIALES (INGENIERÍAS Y FÍSICA",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ECUACIONES DIFERENCIALES (MATEMÁTICA)",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ELECTRÓNICA ANALÓGICA Y DIGITAL",
+      "horaInicio": 12,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "ELECTRÓNICA INDUSTRIAL",
+      "horaInicio": 14,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "ELECTROTECNIA Y MÁQUINAS ELÉCTRICAS",
+      "horaInicio": 10,
+      "duracion": 6
+    },
+    {
+      "nombreMateria": "ELEMENTOS DE PREHISTORIA E HISTORIA DE ORIENTE, HISTORIA ANTIGUA Y ALTOMEDIEVAL",
+      "horaInicio": 12,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ENFERMEDAD, SOCIEDAD Y ESTADO EN AMERICA LATINA (SIGLOS XIX-XX)",
+      "horaInicio": 11,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "ENSEÑANZA DE LA MATEMÁTICA I",
+      "horaInicio": 17,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ENSEÑAR EN LA ESCUELA SECUNDARIA Y EN EL NIVEL SUPERIOR",
+      "horaInicio": 8,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ESPECIFICACIÓN DE SOFTWARE",
+      "horaInicio": 10,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "ESPECIFICACIONES Y VERIFICACIÓN DE SOFTWARE",
+      "horaInicio": 14,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ESTADÍSTICA (PROFESORADO EN MATEMÁTICA",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "ESTADÍSTICA APLICADA A LAS CIENCIAS SOCIALES",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ESTADÍSTICA PARA ECONOMISTAS",
+      "horaInicio": 9,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "ESTRATEGIA Y POLÍTICA INDUSTRIAL",
+      "horaInicio": 11,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "ESTUDIOS DE LA LITERATURA CONTEMPORÁNEA",
+      "horaInicio": 13,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ESTUDIOS DE LA LITERATURA MEDIEVAL, RENACENTISTA Y BARROCA",
+      "horaInicio": 10,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ESTUDIOS LINGÜÍSTICOS",
+      "horaInicio": 12,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "ETICA",
+      "horaInicio": 8,
+      "duracion": 12
+    },
+    {
+      "nombreMateria": "FENÓMENOS DE TRANSPORTE",
+      "horaInicio": 13,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "FILOSOFÍA ANTIGUA Y MEDIEVAL",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "FILOSOFÍA CONTEMPORÁNEA",
+      "horaInicio": 13,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "FILOSOFÍA DE LA CIENCIA",
+      "horaInicio": 17,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "FILOSOFÍA MODERNA",
+      "horaInicio": 14,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "FILOSOFÍA POLÍTICA",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "FÍSICA GENERAL",
+      "horaInicio": 21,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": " FÍSICA I",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "FÍSICA I",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "FÍSICA II",
+      "horaInicio": 8,
+      "duracion": 12
+    },
+    {
+      "nombreMateria": " FUNDAMENTOS DE LA INVESTIGACIÓN SOCIAL",
+      "horaInicio": 17,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "GEOGRAFÍA ECONÓMICA",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "GEOGRAFÍA FÍSICA",
+      "horaInicio": 16,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " GEOGRAFÍA POLÍTICA",
+      "horaInicio": 11,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "GEOGRAFÍA SOCIAL Y ECONÓMICA DE AMÉRICA LATINA",
+      "horaInicio": 19,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "GEOMETRÍA I",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " GEOMETRÍA II",
+      "horaInicio": 8,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "GESTIÓN DE PROYECTOS",
+      "horaInicio": 14,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "GESTIÓN DE RECURSOS HUMANOS",
+      "horaInicio": 8,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "GESTIÓN Y ADMINISTRACIÓN DE BASES DE DATOS",
+      "horaInicio": 8,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "HISTORIA ARGENTINA CONTEMPORÁNE",
+      "horaInicio": 16,
+      "duracion": 6
+    },
+    {
+      "nombreMateria": " HISTORIA ARGENTINA I",
+      "horaInicio": 12,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "HISTORIA ARGENTINA II",
+      "horaInicio": 12,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "HISTORIA CONTEMPORÁNEA DE EUROPA",
+      "horaInicio": 14,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "HISTORIA DE ÁFRICA",
+      "horaInicio": 8,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "HISTORIA DE ASIA",
+      "horaInicio": 10,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": " HISTORIA DE LA CIUDAD I",
+      "horaInicio": 12,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "HISTORIA ECONÓMICA Y SOCIAL MUNDIAL Y LATINOAMERICANA",
+      "horaInicio": 11,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "HISTORIA LATINOAMERICANA I",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "HISTORIA LATINOAMERICANA II",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "HISTORIA MEDIEVAL Y MODERNA",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "HISTORIA MODERNA Y CONTEMPORÁNEA",
+      "horaInicio": 12,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": "INFORMÁTICA APLICADA A LOS SISTEMAS DE INFORMACIÓN GEOGRÁFICA, PARTE I",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INFRAESTRUCTURA Y SERVICIOS URBANOS: SANEAMIENTO",
+      "horaInicio": 17,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INGENIERÍA DE SOFTWARE",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": " INGENIERÍA DE SOFTWARE I",
+      "horaInicio": 8,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INGLÉS CON PROPÓSITOS ESPECÍFICOS I",
+      "horaInicio": 11,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "INGLÉS CON PROPÓSITOS ESPECÍFICOS II",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " INGLÉS CON PROPÓSITOS ESPECÍFICOS III",
+      "horaInicio": 14,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INGLÉS CON PROPÓSITOS ESPECÍFICOS IV ECONOMÍA",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": " INGLÉS LECTOCOMPRENSIÓN I",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INGLÉS LECTOCOMPRENSIÓN II",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " INGLÉS LECTOCOMPRENSIÓN III",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INSTALACIONES INDUSTRIALES",
+      "horaInicio": 14,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " INTRODUCCIÓN A LA COMUNICACIÓN",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "INTRODUCCIÓN A LA ECONOMÍA",
+      "horaInicio": 18,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INTRODUCCIÓN A LA FÍSICA",
+      "horaInicio": 11,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INTRODUCCIÓN A LA FÍSICA (INGENIERÍA)",
+      "horaInicio": 17,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INTRODUCCIÓN A LA GEOGRAFÍA ",
+      "horaInicio": 16,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "INTRODUCCIÓN A LA MATEMÁTICA",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": " INTRODUCCIÓN A LA PROGRAMACIÓN",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "INTRODUCCIÓN A LOS ESTUDIOS DE LA LITERATURA",
+      "horaInicio": 13,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "INVESTIGACIÓN OPERATIVA",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "LABORATORIO I",
+      "horaInicio": 13,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "LABORATORIO II",
+      "horaInicio": 9,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "LABORATORIO III",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "LAS BASES DE LA VIDA Y SU EVOLUCIÓN",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "LENGUAJE, COMUNICACIÓN Y CULTURA",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "LENGUAJE, COMUNICACIÓN Y CULTURA ESCRITA",
+      "horaInicio": 10,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "LITERATURA ARGENTINA: NARRATIVA",
+      "horaInicio": 10,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": " LITERATURA E HISTORIA",
+      "horaInicio": 8,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " LITERATURA II",
+      "horaInicio": 12,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": " LITERATURA LATINOAMERICANA",
+      "horaInicio": 18,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " LÓGICA Y TEORÍA DE NÚMEROS",
+      "horaInicio": 18,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "A que onda",
+      "horaInicio": 8,
+      "duracion": 12
+    },
+    {
+      "nombreMateria": "MATEMÁTICA APLICADA",
+      "horaInicio": 15,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "MATEMÁTICA DISCRETA",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "MATEMÁTICA PARA ECONOMISTAS I",
+      "horaInicio": 17,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "MATEMÁTICA PARA ECONOMISTAS II",
+      "horaInicio": 11,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "MATEMÁTICA PARA ECONOMISTAS III",
+      "horaInicio": 8,
+      "duracion": 12
+    },
+    {
+      "nombreMateria": "MECÁNICA ELEMENTAL",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "METAFÍSICA",
+      "horaInicio": 17,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": " METODOLOGÍA DE LA PROGRAMACIÓN",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "MICROCONTROLADORES",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "MICROECONOMÍA",
+      "horaInicio": 14,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "NARRATIVA DE LOS SIGLOS XX Y XX",
+      "horaInicio": 17,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": " ÓPTICA Y ONDAS",
+      "horaInicio": 17,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "ORGANIZACIÓN DE LA PRODUCCIÓN II ",
+      "horaInicio": 15,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ORGANIZACIÓN DEL COMPUTADOR",
+      "horaInicio": 14,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ORGANIZACIÓN DEL COMPUTADOR I",
+      "horaInicio": 10,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "ORGANIZACIÓN INDUSTRIAL",
+      "horaInicio": 11,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "PLANEAMIENTO Y CONTROL ORGANIZACIONAL",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "POLÍTICA",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "POLÍTICA EDUCACIONAL",
+      "horaInicio": 16,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "PORTUGUÉS I",
+      "horaInicio": 8,
+      "duracion": 10
+    },
+    {
+      "nombreMateria": "PORTUGUÉS II",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "PRÁCTICA PROFESIONAL SUPERVISADA I",
+      "horaInicio": 13,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "PROBABILIDAD Y ESTADÍSTICA",
+      "horaInicio": 12,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "PROBLEMAS DE FILOSOFÍA",
+      "horaInicio": 21,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "PROBLEMAS DE HISTORIA ARGENTINA CONTEMPORÁNEA",
+      "horaInicio": 10,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "PROBLEMAS SOCIOECONÓMICOS CONTEMPORÁNEOS",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "PROBLEMÁTICA EDUCATIVA",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "PROGRAMACIÓN I",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "PROGRAMACIÓN II",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "PROGRAMACIÓN III",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "PROGRAMACIÓN Y MÉTODOS NUMÉRICOS",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "PROYECTO PROFESIONAL I",
+      "horaInicio": 15,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "PROYECTO PROFESIONAL II",
+      "horaInicio": 17,
+      "duracion": 3
+    },
+    {
+      "nombreMateria": " PSICOLOGÍA GENERAL",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "QUÍMICA ANALÍTICA II",
+      "horaInicio": 13,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "QUÍMICA ANALÍTICA II",
+      "horaInicio": 17,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "QUÍMICA GENERAL",
+      "horaInicio": 16,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " QUÍMICA INORGÁNICA",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "QUÍMICA ORGÁNICA",
+      "horaInicio": 21,
+      "duracion": 1
+    },
+    {
+      "nombreMateria": "REDES Y SISTEMAS DE COMUNICACIONES",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "RÉGIMEN TRIBUTARIO ",
+      "horaInicio": 13,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "RESIDENCIA I. LA ESCUELA: ÁMBITO DEL TRABAJO DOCENTE",
+      "horaInicio": 11,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "SINTAXIS Y VARIACIÓN LINGÜÍSTICA",
+      "horaInicio": 10,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "SISTEMAS DE CONTROL",
+      "horaInicio": 18,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "SISTEMAS DE INFORMACIÓN CONTABLE II",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " SISTEMAS DE REPRESENTACIÓN",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "SISTEMAS ECONÓMICOS COMPARADOS",
+      "horaInicio": 15,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "SISTEMAS OPERATIVOS Y REDES",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "SISTEMAS OPERATIVOS Y REDES II",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "SOCIOLOGÍA",
+      "horaInicio": 10,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": " SOCIOLOGÍA CLÁSICA",
+      "horaInicio": 17,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": " SOCIOLOGÍA CONTEMPORÁNEA",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " SOCIOLOGÍA DE LA CULTURA",
+      "horaInicio": 14,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "SOCIOLOGÍA DE LA CULTURA",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " SOCIOLOGÍA POLÍTICA",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TALLER DE APLICACIÓN I: ESCALA NACIONAL",
+      "horaInicio": 8,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "TALLER DE DISEÑO Y PRODUCCIÓN DE MEDIOS GRÁFICOS I",
+      "horaInicio": 10,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "TALLER DE DISEÑO Y PRODUCCIÓN DE MEDIOS GRÁFICOS I",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TALLER DE PRÁCTICA PROFESIONAL (COMUNICACIÓN)",
+      "horaInicio": 18,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TALLER DE PRODUCCIÓN AUDIOVISUAL I",
+      "horaInicio": 13,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "TALLER DE RADIO II",
+      "horaInicio": 11,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": " TALLER DE UTILITARIOS",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TEORÍA DE LA ORGANIZACIÓN",
+      "horaInicio": 17,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TEORÍA DE LAS POLÍTICAS PÚBLICAS",
+      "horaInicio": 18,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TEORÍA POLÍTICA CLÁSICA",
+      "horaInicio": 14,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "TEORÍA POLÍTICA MODERNA",
+      "horaInicio": 13,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TEORÍA Y POLÍTICA MONETARIA",
+      "horaInicio": 14,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": " TERMODINÁMICA QUÍMICA",
+      "horaInicio": 16,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TERMODINÁMICA TÉCNICA",
+      "horaInicio": 12,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TERMODINÁMICA Y FLUÍDOS",
+      "horaInicio": 16,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TERMOTECNIA Y MÁQUINAS TÉRMICAS",
+      "horaInicio": 10,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TÓPICOS AVANZADOS DE ECONOMÍA CLÁSICA Y MARXISTA I",
+      "horaInicio": 18,
+      "duracion": 4
+    },
+    {
+      "nombreMateria": "TÓPICOS AVANZADOS DE ECONOMÍA CLÁSICA Y MARXISTA II",
+      "horaInicio": 20,
+      "duracion": 2
+    },
+    {
+      "nombreMateria": "TÓPICOS DE MACROECONOMÍA AVANZADA",
+      "horaInicio": 12,
+      "duracion": 2
+    }  
+
+  ]
+}
